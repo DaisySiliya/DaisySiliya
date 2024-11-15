@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaisySiliya
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning MySQL, PowerBI, Tableau, Excel
+- 👀 I’m interested in Data Analysis and ICT support 
+- 🌱 I’m currently learning MySQL, PowerBI, Tableau, Excel and python
 
 
 <!---
